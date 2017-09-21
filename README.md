@@ -2,4 +2,4 @@
 
 Completed to step 4 - chat view and send messages
 
-[https://angular-meteor.com/tutorials/whatsapp/meteor/meteor-server-methods|Tutorial]
+[Meteor Tutorial](https://angular-meteor.com/tutorials/whatsapp/meteor/meteor-server-methods)
